@@ -1,3 +1,4 @@
 {
-	"status": "ok"
+	"status": "error",
+  "message": "Es finden gerade Wartungsarbeiten auf dem Server statt. Wir sind ab 21:00 wieder errreichbar."
 }
